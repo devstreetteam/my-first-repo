@@ -1,2 +1,3 @@
 # my-first-repo
-this is my first day repo
+this is my first day repotry
+
